@@ -6,9 +6,9 @@ def minion_game():
 
     for e in range((len(str))):
         if str[e] in vocales:
-            kevin+= (len(str)-e)
+            kevin += (len(str)-e)
         else:
-            stuart+=(len(str)-e)
+            stuart +=(len(str)-e)
     if stuart > kevin :
         print('Stuart wins with', stuart, 'points')
     elif kevin > stuart:

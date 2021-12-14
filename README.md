@@ -1,3 +1,3 @@
-#Examen Parcial
+# parcial
 
 https://github.com/dmunofer/parcial
